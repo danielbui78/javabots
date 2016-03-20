@@ -1,0 +1,3 @@
+cd src
+javac -classpath . Bot\*.java Server\*.java Visualizer\*.java
+jar cvmf META-INF\MANIFEST.MF ..\javabots.jar Bot\*.class Server\*.class Visualizer\*.class
