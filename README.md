@@ -1,2 +1,4 @@
 # javabots
 java based programming game inspired by crobots
+
+This was a programming project I started in the Fall of 1997 while a member of the University of Florida's student chapter of the ACM (Association for Computing Machinery).  Some members of ACM also contributed to the project.  I submitted it to the 1998 ACM Quest for Java Contest and also used it as part of ACM's High School Programming Competition during the 1998 UF Engineering Fair.  I stopped working on it after Spring 1998.  Around 2001 or 2002, a few members of ACM tried to revive the project and updated some of the source code.  I'm not sure how much progress was made at that time but as far as I know the project was eventually abandoned.  I recently found some of the source code and decided to make some tweaks so it will run more easily with a current (2016) Java runtime since the original was made for JDK's compatible with Sun's Java 1.1.
